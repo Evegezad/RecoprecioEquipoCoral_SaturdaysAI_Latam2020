@@ -40,7 +40,7 @@ Puedes encontrar mayor información de como se desarrollo este proyecto en [Medi
 ## Acerca de Saturdays.AI
 Es una organización de impacto social con la misión de empoderar a diversas personas para que aprendan Inteligencia Artificial de una manera colaborativa basada en proyectos, más allá del camino convencional.
 
-
+ ![img](https://www.saturdays.ai/images/logo.png) 
 
 
 
