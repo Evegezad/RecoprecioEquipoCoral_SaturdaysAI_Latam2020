@@ -14,7 +14,10 @@ Pasión por aprender y seguirse actualizando en el área de la inteligencia arti
 
 Desempeñando los siguientes roles:
 
-|||
+| TÉRMINO | DOC 1 | DOC 2 | DOC 3 |
+|---|---|---|---|
+| CDMX | 1 | 0 | 0 |
+| es | 1 | 0 | 0 |
 
 **Mentor**
 Rodrigo Herrera, Co-Fundador  y Chief Technology Officer (CTO) de Ainnovatech.
