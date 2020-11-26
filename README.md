@@ -37,7 +37,7 @@ Puedes encontrar mayor información de como se desarrollo este proyecto en [Medi
 * [Parte 1.](https://medium.com/saturdays-ai/de-sondeo-a-un-recomendador-de-precios-b43cff826736) Entendimiento del problema.
 * [Parte 2.](https://medium.com/saturdays-ai/recuerdas-el-porqué-de-la-situación-del-problema-de-las-mipymes-en-méxico-5db7e636bf8c) Desarrollo de la solución.
 
-## Acerca de Saturdays.AI
+## Acerca de [Saturdays.AI](https://www.saturdays.ai/)
 Es una organización de impacto social con la misión de empoderar a diversas personas para que aprendan Inteligencia Artificial de una manera colaborativa basada en proyectos, más allá del camino convencional.
 
  ![img](https://www.saturdays.ai/images/logo.png) 
